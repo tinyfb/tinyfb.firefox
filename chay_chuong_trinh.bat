@@ -3,7 +3,6 @@
 IF EXIST tinylibs (
 
 .\update\bin\git.exe -C tinylibs pull
-echo "Chuong trinh cap nhat thanh cong!"
 
 ) ELSE (
 echo "Chuong trinh dang cap nhat lan dau, vui long cho doi trong giay lat"
