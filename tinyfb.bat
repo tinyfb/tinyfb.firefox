@@ -11,19 +11,6 @@ echo "Chuong trinh dang cap nhat lan dau, vui long cho doi trong giay lat"
 
 )
 
-timeout 25
-
-
-
-
-@echo off
-
-
-
-
-
-
-
 
 
 
